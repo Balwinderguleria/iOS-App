@@ -7,7 +7,7 @@ A curated list of Open Source example iOS apps developed in Swift.
 
 # How to Use
 Example-iOS-Apps is an amazing list for people who are beginners and learning iOS development and for iOS developers who need any example app or feature. The best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/jogendrafx) or drop us a mail on jogendra.iitbhu@gmail.com
+- Ask for help on our [Twitter](https://twitter.com/jogendrafx) or drop us a mail 
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
